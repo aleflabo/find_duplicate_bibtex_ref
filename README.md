@@ -1,4 +1,4 @@
-## Duplicate BibTeX Finder
+## Duplicate BibTeX Finder w/ Python
 
 ### Overview
 
